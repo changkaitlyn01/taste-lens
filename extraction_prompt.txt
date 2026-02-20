@@ -1,1 +1,31 @@
-Extraction prompt template will be added here.
+You are analyzing restaurant customer reviews.
+
+Extract structured insight themes from these reviews.
+
+Return results in clean bullet lists under these exact headings:
+
+Top Praise Drivers:
+- recurring strengths customers mention
+- specific qualities, not generic words
+
+Top Complaint Drivers:
+- recurring negatives or frustrations
+
+Vibe & Experience Signals:
+- atmosphere, service style, pacing, noise, crowd type
+
+Best For (Occasion Fit):
+- what type of visit this restaurant fits best (date night, quick meal, group dinner, budget, etc.)
+
+Differentiators:
+- what makes this place stand out compared to typical restaurants of this type
+
+Insight Summary:
+- 2–3 sentences summarizing the overall takeaway and tradeoffs
+
+Rules:
+- Only include themes mentioned multiple times
+- No invented facts
+- No marketing language
+- Keep each bullet under 12 words
+- Be concrete and specific
