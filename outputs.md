@@ -129,3 +129,13 @@ Bear Flag is widely praised for its fresh seafood, generous portions, and especi
 
 **Insight Summary**
 Habana is widely praised for its vibrant Havana-inspired atmosphere, flavorful Cuban classics, and attentive service that elevates special occasions. While many diners feel the quality justifies premium pricing, some cite small portions and parking challenges as drawbacks. It stands out as an upscale, celebratory Cuban dining experience rather than a casual everyday spot.
+
+**—**
+
+## System-Level Observations (Across 3 Restaurants)
+* Premium pricing appears across all three concepts.
+* Customers accept higher prices when quality feels consistent.
+* Long lines are tolerated when service moves efficiently.
+* Signature items anchor brand identity.
+* Atmosphere shapes occasion fit and positioning.
+* Operational friction drives negative sentiment quickly.
