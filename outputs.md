@@ -1,4 +1,22 @@
-**Restaurant: Sidecar Doughnuts — Costa Mesa**
+# TasteLens Outputs
+
+## Restaurant: Sidecar Doughnuts — Costa Mesa
+
+### At a Glance
+**Positioning:**  
+* Premium donut destination known for cake-style donuts and standout flavors
+
+**Why people love it:**  
+* Fresh, warm cake-style donuts
+* Balanced sweetness with unique flavors
+
+**Common complaints:**  
+* Expensive relative to portion size
+
+**Best for:**  
+* Weekend indulgent treat or sharing with a group
+
+### Full Insights
 
 **Top Praise Drivers**
 * Fresh, warm donuts made throughout the day
@@ -41,9 +59,25 @@
 **Insight Summary**
 Sidecar is widely regarded as a premium cake-donut destination known for freshness, balanced sweetness, and standout flavors like huckleberry and butter & salt. Customers accept long lines and higher prices in exchange for quality and unique offerings, though complaints center around cost, smaller portions, and occasional inconsistency. It functions more as a special-occasion indulgence than an everyday value stop.
 
-**—**
+---
 
-**Restaurant: Bear Flag Fish Co. — Newport**
+## Restaurant: Bear Flag Fish Co. — Newport
+
+### At a Glance
+**Positioning:**  
+* Casual seafood market hybrid known for burritos and poke
+
+**Why people love it:**  
+* Very fresh seafood and generous portions
+* Popular burritos and poke bowls
+
+**Common complaints:**  
+* Crowded seating and occasional execution inconsistencies
+
+**Best for:**  
+* Casual beach-area meal or small group outing
+
+### Full Insights
 
 **Top Praise Drivers**
 * Very fresh seafood and poke
@@ -86,9 +120,25 @@ Sidecar is widely regarded as a premium cake-donut destination known for freshne
 **Insight Summary**
 Bear Flag is widely praised for its fresh seafood, generous portions, and especially its burritos and poke offerings. Customers appreciate the casual beachy vibe and fast-moving counter service, though crowds and premium pricing are common tradeoffs. While most dishes receive strong praise, sushi and occasional service inconsistencies appear as weaker points.
 
-**—**
+---
 
-**Restaurant: Habana — Costa Mesa**
+## Restaurant: Habana — Costa Mesa
+
+### At a Glance
+**Positioning:**  
+* Upscale Cuban dining for dates and special occasions
+
+**Why people love it:**  
+* Flavorful Cuban classics like ropa vieja and paella
+* Vibrant ambiance with attentive service
+
+**Common complaints:**  
+* High prices relative to portion size
+
+**Best for:**  
+* Special occasions or celebratory dinners
+
+### Full Insights
 
 **Top Praise Drivers**
 * Flavorful Cuban dishes like ropa vieja
@@ -130,7 +180,7 @@ Bear Flag is widely praised for its fresh seafood, generous portions, and especi
 **Insight Summary**
 Habana is widely praised for its vibrant Havana-inspired atmosphere, flavorful Cuban classics, and attentive service that elevates special occasions. While many diners feel the quality justifies premium pricing, some cite small portions and parking challenges as drawbacks. It stands out as an upscale, celebratory Cuban dining experience rather than a casual everyday spot.
 
-**—**
+---
 
 ## System-Level Observations (Across 3 Restaurants)
 * Premium pricing appears across all three concepts.
