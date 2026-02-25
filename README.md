@@ -93,7 +93,13 @@ These patterns demonstrate how structured extraction can reveal broader market s
 - `README.md` — Project overview
 - `extraction_prompt.txt` — AI extraction prompt
 - `reviews_sample.txt` — Sample reviews dataset 
-- `outputs.md` — Structured insight outputs  
+- `outputs.md` — Structured insight outputs
+
+---
+
+## Product Memo
+
+See `product_memo.md` for full product rationale, data selection decisions, design tradeoffs, and future roadmap.
 
 ---
 
