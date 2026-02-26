@@ -66,6 +66,24 @@ This staged design reflects how structured prompt-driven AI workflows could be o
 
 See: `outputs.md`
 
+### 🖼️ At a Glance Snapshot (Prototype View)
+<table>
+<tr>
+<td>
+<img src="screenshots/TasteLens_At_a_Glance_example.png" width="600"/>
+</td>
+</tr>
+</table>
+
+### 🖼️ Full Insights Breakdown (Prototype View - Partial)
+<table>
+<tr>
+<td>
+<img src="screenshots/TasteLens_Full_Insights_example.png" width="600"/>
+</td>
+</tr>
+</table>
+
 Each restaurant includes:
 - **At a Glance snapshot**
 - Full structured insight breakdown
