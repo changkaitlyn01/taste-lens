@@ -52,6 +52,8 @@ AI prompts convert raw reviews into categorized insight buckets:
 - Occasion Fit  
 - Differentiators
 
+Structured extraction was implemented using OpenAI’s GPT-based LLM via prompt-driven iteration and constraint refinement.
+
 ### Stage 2 — Synthesis Layer  
 Structured outputs are analyzed to identify recurring positioning signals, tradeoffs, and cross-business themes.
 
