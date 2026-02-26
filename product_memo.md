@@ -53,6 +53,8 @@ I chose these insight categories intentionally based on how users naturally eval
 
 The extraction prompt was built to enforce this structure consistently. It required themes to appear multiple times, enforced strict output categories, limited bullet length, and prohibited invented facts. These constraints were designed to reduce noise, avoid overreacting to one-off comments, and produce repeatable, comparable outputs across different businesses rather than generic summaries.
 
+The structured extraction was implemented using GPT-based large language models (OpenAI GPT model).
+
 ### 2. Synthesis  
 After extracting structured themes, I analyze outputs to identify:
 - Positioning signals  
